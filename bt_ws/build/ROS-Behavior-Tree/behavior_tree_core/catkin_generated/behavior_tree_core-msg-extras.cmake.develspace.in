@@ -1,0 +1,2 @@
+set(behavior_tree_core_MESSAGE_FILES "/home/unitree/bt_ws/devel/share/behavior_tree_core/msg/BTAction.msg;/home/unitree/bt_ws/devel/share/behavior_tree_core/msg/BTActionGoal.msg;/home/unitree/bt_ws/devel/share/behavior_tree_core/msg/BTActionResult.msg;/home/unitree/bt_ws/devel/share/behavior_tree_core/msg/BTActionFeedback.msg;/home/unitree/bt_ws/devel/share/behavior_tree_core/msg/BTGoal.msg;/home/unitree/bt_ws/devel/share/behavior_tree_core/msg/BTResult.msg;/home/unitree/bt_ws/devel/share/behavior_tree_core/msg/BTFeedback.msg")
+set(behavior_tree_core_SERVICE_FILES "")

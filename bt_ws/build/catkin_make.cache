@@ -1,0 +1,2 @@
+ROS-Behavior-Tree/behavior_tree:ROS-Behavior-Tree/behavior_tree_core:ROS-Behavior-Tree/behavior_tree_leaves
+-DCATKIN_DEVEL_PREFIX=/home/unitree/bt_ws/devel -DCMAKE_INSTALL_PREFIX=/home/unitree/bt_ws/install -G Unix Makefiles
