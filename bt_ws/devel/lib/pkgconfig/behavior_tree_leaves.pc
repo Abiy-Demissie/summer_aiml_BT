@@ -1,8 +1,0 @@
-prefix=/home/unitree/bt_ws/devel
-
-Name: behavior_tree_leaves
-Description: Description of behavior_tree_leaves
-Version: 0.0.0
-Cflags: 
-Libs: -L${prefix}/lib 
-Requires: actionlib_msgs

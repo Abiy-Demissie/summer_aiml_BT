@@ -1,1 +1,1 @@
-# Go1
+# Go1 Behavioural Tree
